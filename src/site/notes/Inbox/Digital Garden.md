@@ -4,3 +4,5 @@
 
 
 Hello
+
+[[Inbox/This is another note\|This is another note]]
