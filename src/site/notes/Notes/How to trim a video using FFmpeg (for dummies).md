@@ -4,10 +4,7 @@
 
 
 
-**Created:** [[20-01-2022\|20-01-2022]] at <%+ tp.file.creation_date("HH:mm") %>
-**Last modified:** <%+ tp.file.last_modified_date("DD/MM/YYYY") %> at <%+ tp.file.last_modified_date("HH:mm") %>
-
-# <%+ tp.file.title %>
+# How to trim a video using FFmpeg (for dummies)
 In order to split a video file using [[Notes/FFmpeg\|FFmpeg]] follow these steps:
 1. [[Notes/How to set up FFmpeg on Windows (for dummies)\|Set up FFmpeg on your Windows machine]] and open the terminal.
 2. Copy the file you want to trim to the `bin` folder (explained [[Notes/How to set up FFmpeg on Windows (for dummies)\|here]] in step 2).
