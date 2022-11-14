@@ -3,10 +3,7 @@
 ---
 
 
-**Created:** [[20-01-2022\|20-01-2022]] at <%+ tp.file.creation_date("HH:mm") %>
-**Last modified:** <%+ tp.file.last_modified_date("DD/MM/YYYY") %> at <%+ tp.file.last_modified_date("HH:mm") %>
-
-# <%+ tp.file.title %>
+# How to merge video files with FFmpeg on Windows (for dummies)
 This is a simple tutorial for how to merge several videos using [[Notes/FFmpeg\|FFmpeg]] without re-rendering (use this if you simply want to merge two clips that were clipped from the save original video).
 Follow these steps:
 1. [[Notes/How to set up FFmpeg on Windows (for dummies)\|Set up FFmpeg on your Windows machine]].
