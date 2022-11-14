@@ -3,10 +3,8 @@
 ---
 
 
-**Created:** [[20-01-2022\|20-01-2022]] at <%+ tp.file.creation_date("HH:mm") %>
-**Last modified:** <%+ tp.file.last_modified_date("DD/MM/YYYY") %> at <%+ tp.file.last_modified_date("HH:mm") %>
 
-# <%+ tp.file.title %>
+# How to set up FFmpeg on Windows (for dummies)
 To get started with [[Notes/FFmpeg\|FFmpeg]], follow these steps:
 1. Download [[Notes/FFmpeg\|FFmpeg]].
 	1. Go to [official download page](https://www.ffmpeg.org/download.html).
