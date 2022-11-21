@@ -6,7 +6,7 @@
 
 # Assert in Python
 ## What is an `assert` in Python?
-An simple assert statement in [[Notes/Python\|Python]] is equivalent to the following:
+An simple `assert` statement in [[Notes/Python\|Python]] is equivalent to the following:
 ```python
 if __debug__:
     if not expression:
