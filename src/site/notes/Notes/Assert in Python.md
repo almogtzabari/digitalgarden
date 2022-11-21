@@ -33,7 +33,7 @@ assert condition, optional_message
 >> assert(x==10, "X was supposed to be 10 but is not!")
 
 ## Run Python code without `assert`s
-To run [[Python]] without `assert`s simply specified the flag `-O` as a python argument. This will run Python in "optimized" mode, setting `__debug__` to `False`.
+To run [[Python|Python]] without `assert`s simply specified the flag `-O` as a python argument. This will run Python in "optimized" mode, setting `__debug__` to `False`.
 > [!EXAMPLE] Example
 > ```bash
 > python -O my_script.py arg1 arg2
