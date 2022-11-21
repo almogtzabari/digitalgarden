@@ -14,7 +14,7 @@ Follow these steps in order to convert PDF files to images using [[Notes/Python\
 from pdf2image import convert_from_path
 
 
-pdf_path = r'C:\Users\Almog-PC\Downloads\Technion Student - Almog Tzabari.pdf'
+pdf_path = r'my_file.pdf'
 pages = convert_from_path(pdf_path, 500)
 for page in pages:
 	page.save('out.jpg', 'JPEG')
