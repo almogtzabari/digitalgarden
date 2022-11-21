@@ -21,7 +21,7 @@ if __debug__:
 assert condition, optional_message
 ```
 
-> [!EXAMPLE]
+> [!EXAMPLE] Example
 > ```python
 > assert x == 10, "X was supposed to be 10 but is not!"
 > ```
