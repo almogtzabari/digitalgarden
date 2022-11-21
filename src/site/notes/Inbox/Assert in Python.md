@@ -9,7 +9,8 @@
 An simple assert statement in [[Notes/Python\|Python]] is equivalent to the following:
 ```python
 if __debug__:
-    if not expression: raise AssertionError
+    if not expression:
+	    raise AssertionError
 ```
 ## Reasons to use `assert`
 1. It Helps detect problems early in your program, where the cause is clear, rather than later when some other operation fails. A type error in Python, for example, can go through several layers of code before actually raising an `Exception` if not caught early on.
