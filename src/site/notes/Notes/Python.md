@@ -10,7 +10,7 @@
 - [[Notes/How to print a fixed width number in Python with F-string (digits before decimal point)\|How to print a fixed width number in Python with F-string (digits before decimal point)]] 
 - [[Notes/How to convert PDF to images using Python\|How to convert PDF to images using Python]] 
 - [[Notes/How to hide prints in Python\|How to hide prints in Python]] 
-- [[Inbox/Assert in Python\|Assert in Python]]
+- [[Notes/Assert in Python\|Assert in Python]]
 
 ###  Terms
 - [[Notes/Python Package Index\|Python Package Index]] 
