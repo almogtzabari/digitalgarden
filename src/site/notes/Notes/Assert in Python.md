@@ -26,7 +26,7 @@ assert condition, optional_message
 > assert x == 10, "X was supposed to be 10 but is not!"
 > ```
 
-> [!Caution]
+> [!Caution] Caution
 > Do not use parenthesis as it will run the `assert` with a tuple as it's first argument, which is not desired.
 >> [!error] Wrong
 >> ```python
