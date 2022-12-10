@@ -5,7 +5,7 @@
 
 
 
-# C++ Macro Operator
+# C++ Macro Operator \##
 In [[Notes/C++\|C++]] there is a macro operator `##` which concatenates tokens in macros.
 For example:
 ```C++
