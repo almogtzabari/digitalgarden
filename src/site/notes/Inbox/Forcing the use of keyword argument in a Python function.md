@@ -5,7 +5,7 @@
 
 
 # Forcing the use of keyword argument in a Python function
-There is an option to force the user to pass arguments to a function by keyword only. To do that, all is needed, is to add an `*` arguments of the function.
+In [[Notes/Python\|Python]], there is an option to force the user to pass arguments to a function by keyword only. To do so, all is needed is to add an `*` in front of the arguments of the function.
 
 >[!EXAMPLE]
 > ```python
