@@ -5,6 +5,6 @@
 
 
 
-# Python Software Foundation
+# [[Notes/Python\|Python]] Software Foundation
 
 
