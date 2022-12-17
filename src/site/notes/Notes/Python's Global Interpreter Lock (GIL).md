@@ -5,4 +5,4 @@
 
 
 
-# Python's Global Interpreter Lock (GIL)
+# [[Notes/Python\|Python]]'s Global Interpreter Lock (GIL)
