@@ -5,7 +5,7 @@
 
 
 
-# How to convert PDF to images using Python
+# How to convert PDF to images using [[Notes/Python\|Python]]
 Follow these steps in order to convert PDF files to images using [[Notes/Python\|Python]]:
 1. Run `pip install pdf2image`.
 2. Run script below:
