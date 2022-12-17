@@ -10,6 +10,7 @@ I hope you can find what you are looking for here.
 >Use CTRL + K to search notes
 
 ## All Notes
+- [[Inbox/Agile\|Agile]]
 - [[Inbox/Forcing the use of keyword argument in a Python function\|Forcing the use of keyword argument in a Python function]]
 - [[Garden/Digital Garden Home\|Digital Garden Home]]
 - [[Notes/Python's Global Interpreter Lock (GIL)\|Python's Global Interpreter Lock (GIL)]]
