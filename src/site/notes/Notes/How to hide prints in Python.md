@@ -5,7 +5,7 @@
 
 
 
-# How to hide prints in Python
+# How to hide prints in [[Notes/Python\|Python]]
 Here's a code example of how to hide prints in [[Notes/Python\|Python]]:
 
 ```Python
