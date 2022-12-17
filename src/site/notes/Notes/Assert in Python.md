@@ -4,8 +4,8 @@
 
 
 
-# Assert in Python
-## What is an `assert` in Python?
+# Assert in [[Notes/Python\|Python]]
+## What is an `assert` in [[Notes/Python\|Python]]?
 An simple `assert` statement in [[Notes/Python\|Python]] is equivalent to the following:
 ```python
 if __debug__:
@@ -13,7 +13,7 @@ if __debug__:
 	    raise AssertionError
 ```
 ## Why use `assert`?
-1. It Helps detect problems early in your program, where the cause is clear, rather than later when some other operation fails. A type error in Python, for example, can go through several layers of code before actually raising an `Exception` if not caught early on.
+1. It Helps detect problems early in your program, where the cause is clear, rather than later when some other operation fails. A type error in [[Notes/Python\|Python]], for example, can go through several layers of code before actually raising an `Exception` if not caught early on.
 2. It works as documentation for other developers reading the code, who see the `assert` and can confidently say that its condition holds from now on.
 
 ## How to use `assert`?
@@ -32,8 +32,8 @@ assert condition, optional_message
 >> ```python
 >> assert(x==10, "X was supposed to be 10 but is not!")
 
-## Run Python code without `assert`s
-To run [[Python]] without `assert`s simply specified the flag `-O` as a python argument. This will run Python in "optimized" mode, setting `__debug__` to `False`.
+## Run [[Python]] code without `assert`s
+To run [[Python]] without `assert`s simply specified the flag `-O` as a [[python]] argument. This will run Python in "optimized" mode, setting `__debug__` to `False`.
 > [!EXAMPLE] Example
 > ```bash
 > python -O my_script.py arg1 arg2
