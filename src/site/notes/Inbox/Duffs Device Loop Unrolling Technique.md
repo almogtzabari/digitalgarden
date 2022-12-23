@@ -5,7 +5,7 @@
 
 
 # Duffs Device Loop Unrolling Technique
-[[Inbox/Duffs Device Loop Unrolling Technique\|Duffs Device]] is a technique used by most [[Compiler\|Compiler]]s to do [[Inbox/Loop Unrolling\|Loop Unrolling]] which is used when the amount of iterations required for a loop is not known during compilation.
+[[Inbox/Duffs Device Loop Unrolling Technique\|Duffs Device]] is a technique used by most [[Inbox/Compiler\|Compiler]]s to do [[Inbox/Loop Unrolling\|Loop Unrolling]] which is used when the amount of iterations required for a loop is not known during compilation.
 
 ```c
 for (int i=0; i<count; i++){
