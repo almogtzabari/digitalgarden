@@ -10,7 +10,7 @@ The goal of [[Notes/Branch Prediction\|Branch Prediction]] is to reduce the over
 There are several ways/techniques for [[Notes/Branch Prediction\|Branch Prediction]]:
 - [[Notes/Branch Prediction#Static Prediction\|Static Precdiction]]
 - [[Notes/Branch Prediction#Dynamic Prediction\| Dynamic Prediction]]
-	- BTB
+	- [[Inbox/Branch Target Buffer\|BTB]]
 	- Local / Global
 - [[Notes/Branch Prediction#Delayed Branch\|Delayed Branch]]
 	- Canceling branch
