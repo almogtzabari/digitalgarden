@@ -10,8 +10,18 @@ I hope you can find what you are looking for here.
 >Use CTRL + K to search notes
 
 ## All Notes
+- [[Inbox/Partial in Python\|Partial in Python]]
 - [[Inbox/Agile\|Agile]]
 - [[Inbox/Forcing the use of keyword argument in a Python function\|Forcing the use of keyword argument in a Python function]]
+- [[Inbox/Amdahls Law for speedup\|Amdahls Law for speedup]]
+- [[Inbox/MIPS Index\|MIPS Index]]
+- [[Inbox/Runtime of program on CPU\|Runtime of program on CPU]]
+- [[Inbox/CPU Pipeline\|CPU Pipeline]]
+- [[Inbox/Super Scalar CPU Architecture\|Super Scalar CPU Architecture]]
+- [[Inbox/Pipeline Hazards in CPU\|Pipeline Hazards in CPU]]
+- [[Inbox/Super Pipeline CPU Architecture\|Super Pipeline CPU Architecture]]
+- [[Inbox/Loop Unrolling\|Loop Unrolling]]
+- [[Inbox/Duffs Device Loop Unrolling Technique\|Duffs Device Loop Unrolling Technique]]
 - [[Garden/Digital Garden Home\|Digital Garden Home]]
 - [[Notes/Python's Global Interpreter Lock (GIL)\|Python's Global Interpreter Lock (GIL)]]
 - [[Notes/Zsh Shell\|Zsh Shell]]
