@@ -15,5 +15,5 @@ $$
 ## The Law
 If we improve $F$ fraction of our program by $speed\_up(F)$ then the overall speedup is as follows:
 $$
-speed\_up = \frac{1}{(1-F) + \frac{speed\_up(F)}{F}}
+speed\_up = \frac{1}{(1-F) + \frac{F}{speed\_up(F)}}
 $$
