@@ -10,6 +10,7 @@ I hope you can find what you are looking for here.
 >Use CTRL + K to search notes
 
 ## All Notes
+- [[Inbox/Branch Prediction\|Branch Prediction]]
 - [[Notes/Compiler\|Compiler]]
 - [[Notes/NOP in CPU\|NOP in CPU]]
 - [[Notes/Branch Resolution\|Branch Resolution]]
