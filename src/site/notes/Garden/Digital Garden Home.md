@@ -23,6 +23,7 @@ I hope you can find what you are looking for here.
 - [[Inbox/Loop Unrolling\|Loop Unrolling]]
 - [[Inbox/Duffs Device Loop Unrolling Technique\|Duffs Device Loop Unrolling Technique]]
 - [[Inbox/Control Hazard in CPU\|Control Hazard in CPU]]
+- [[Inbox/Branch Resolution\|Branch Resolution]]
 - [[Inbox/NOP in CPU\|NOP in CPU]]
 - [[Inbox/Compiler\|Compiler]]
 - [[Notes/Assert in Python\|Assert in Python]]
