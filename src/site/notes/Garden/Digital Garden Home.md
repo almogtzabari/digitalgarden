@@ -10,9 +10,9 @@ I hope you can find what you are looking for here.
 >Use CTRL + K to search notes
 
 ## All Notes
-- [[Notes/Complex Instruction Set Processor\|Complex Instruction Set Processor]]
 - [[Notes/Instruction Set Architecture\|Instruction Set Architecture]]
 - [[Notes/SIMD\|SIMD]]
+- [[Notes/Complex Instruction Set Processor\|Complex Instruction Set Processor]]
 - [[Notes/Branch Prediction\|Branch Prediction]]
 - [[Notes/Branch Target Buffer\|Branch Target Buffer]]
 - [[Notes/Compiler\|Compiler]]
