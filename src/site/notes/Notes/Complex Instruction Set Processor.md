@@ -5,7 +5,7 @@
 
 
 # Complex Instruction Set Processor
-[[Notes/Complex Instruction Set Processor\|Complex Instruction Set Processor]], also known CISC, means that the [[Notes/Instruction Set Architecture\|ISA]] is large and supports many instructions, some of these instructions are complex.
+[[Notes/Complex Instruction Set Processor\|Complex Instruction Set Processor]], also known as CISC, means that the [[Notes/Instruction Set Architecture\|ISA]] is large and supports many instructions, some of these instructions are complex.
 The idea is to allow a higher level machine language - [[Assembly\|Assembly]] programmers' job will be easier.
 An example for a CISC is Intel's x86.
 
