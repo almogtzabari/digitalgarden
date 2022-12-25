@@ -10,16 +10,18 @@ I hope you can find what you are looking for here.
 >Use CTRL + K to search notes
 
 ## All Notes
+- [[Notes/Complex Instruction Set Processor\|Complex Instruction Set Processor]]
 - [[Notes/Instruction Set Architecture\|Instruction Set Architecture]]
 - [[Notes/SIMD\|SIMD]]
-- [[Notes/Complex Instruction Set Processor\|Complex Instruction Set Processor]]
-- [[Notes/Branch Prediction\|Branch Prediction]]
 - [[Notes/Branch Target Buffer\|Branch Target Buffer]]
+- [[Notes/Branch Prediction\|Branch Prediction]]
 - [[Notes/Compiler\|Compiler]]
 - [[Notes/NOP in CPU\|NOP in CPU]]
-- [[Notes/Control Hazard in CPU\|Control Hazard in CPU]]
 - [[Notes/Branch Resolution\|Branch Resolution]]
+- [[Notes/Control Hazard in CPU\|Control Hazard in CPU]]
 - [[Notes/Duffs Device Loop Unrolling Technique\|Duffs Device Loop Unrolling Technique]]
+- [[Notes/Cycles Per Instruction\|Cycles Per Instruction]]
+- [[Notes/Instruction Count\|Instruction Count]]
 - [[Notes/Loop Unrolling\|Loop Unrolling]]
 - [[Notes/Super Pipeline CPU Architecture\|Super Pipeline CPU Architecture]]
 - [[Notes/Pipeline Hazards in CPU\|Pipeline Hazards in CPU]]
