@@ -25,7 +25,7 @@ The [[Notes/Branch Target Buffer\|BTB]] is usually composed of a table collectin
 - History 
 	- for example: T, T, T, T, NT, T, T, T, T, NT
 	- The history can be per branch instruction (called local history), or 1 for all branches (called global history).
-	- **For each history POSSIBILITY there is a different predictor**. For example, if we keep a global history (1 for all branches) of length 2 (keep last 2 [[Notes/Branch Resolution\|Branch Resolution]]s), and we use a 2 bit predictor (state machine of SNT, NT, T, ST), then we have $$1[history]\cdot 2[bits\_per\_history]\cdot 2^{2}[predictors]\cdot 2[bits\_per\_predictor]$$
+	- **For each history POSSIBILITY there is a different predictor**. For example, if we keep a global history (1 for all branches) of length 2 (keep last 2 [[Notes/Branch Resolution\|Branch Resolution]]s), and we use a 2 bit predictor (state machine of SNT, NT, T, ST), then we have $$1[history]\cdot 2^{2}[predictors]\cdot 2[bits\_per\_predictor]$$
 
 [^1]: Program Counter - Address of the instruction.
 [^2]: Similar to PC.
