@@ -12,7 +12,7 @@ Since [[Notes/Instruction Set Architecture\|ISA]] is the interface of a processo
 Here are some considerations that we need to think of when defining an ISA:
 - Instruction size
 	- Long instructions take more time to fetch from memory
-	- Long instructions require a larger memory (might be crucial for embedded devices)
+	- Long instructions require a larger memory (might be critical for embedded devices)
 - Number of Instructions
 	- Large amount of instructions means that we don't have to chain multiple instructions to achieve 1 complex instruction, which leads to reduce in runtime (assuming constant [[Notes/Cycles Per Instruction\|CPI]] and frequency).
 - Simplicity
