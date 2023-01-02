@@ -10,10 +10,12 @@ I hope you can find what you are looking for here.
 >Use CTRL + K to search notes
 
 ## All Notes
+- [[Inbox/Arithmetic Logic Unit\|Arithmetic Logic Unit]]
+- [[Inbox/Data Hazard in CPU\|Data Hazard in CPU]]
+- [[Inbox/Structural Hazard in CPU\|Structural Hazard in CPU]]
 - [[Notes/Complex Instruction Set Processor\|Complex Instruction Set Processor]]
 - [[Notes/Instruction Set Architecture\|Instruction Set Architecture]]
 - [[Notes/SIMD\|SIMD]]
-- [[Notes/Branch Target Buffer\|Branch Target Buffer]]
 - [[Notes/Branch Prediction\|Branch Prediction]]
 - [[Notes/Compiler\|Compiler]]
 - [[Notes/NOP in CPU\|NOP in CPU]]
