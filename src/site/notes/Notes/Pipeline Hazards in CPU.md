@@ -41,9 +41,9 @@ Another example is when we use the memory (read/write) in 2 pipeline stages (lik
 Data hazard is a type of [[Notes/Pipeline Hazards in CPU\|Pipeline Hazards in CPU]] that occur due to dependencies of data between two or more instructions.
 
 There are 3 main types of data hazards:
-- **R**ead **A**fter **W**rite - this is a true dependency because we have to read the right data (after it is modified).
-- **W**rite **A**fter **R**ead - also called *Anti-dependency*. #placeholder add more explanation
-- **W**rite **A**fter **W**rite - also called *False-dependency* because 
+- **R**ead **A**fter **W**rite - this is a *True-dependency* because we have to read the right data (after it is modified).
+- **W**rite **A**fter **R**ead - also called *Anti-dependency* (called like this because it's the opposite of **RAW**). This can easily be resolved using [[Notes/Register Renaming\|Register Renaming]].
+- **W**rite **A**fter **W**rite - also called *False-dependency*.
 
 To overcome some of these we can either:
 1. Stall - Let the hardware detect hazard and add stalls if needed. The problem with that is that it is SLOW. To overcome that we use *Forward*.
