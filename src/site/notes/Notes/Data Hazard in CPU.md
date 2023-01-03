@@ -4,6 +4,7 @@
 
 
 
+
 # Data Hazard in CPU
 Data hazard is a type of [[Notes/Pipeline Hazards in CPU\|Pipeline Hazards in CPU]] that occur due to dependencies of data between two or more instructions.
 
