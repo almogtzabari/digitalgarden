@@ -10,11 +10,11 @@ I hope you can find what you are looking for here.
 >Use CTRL + K to search notes
 
 ## All Notes
-- [[Inbox/Integer Subtraction\|Integer Subtraction]]
-- [[Inbox/Ripple Carry Adder\|Ripple Carry Adder]]
-- [[Inbox/Full Adder\|Full Adder]]
-- [[Inbox/Half Adder\|Half Adder]]
-- [[Inbox/Integer Division\|Integer Division]]
+- [[Notes/Integer Subtraction\|Integer Subtraction]]
+- [[Notes/Ripple Carry Adder\|Ripple Carry Adder]]
+- [[Notes/Full Adder\|Full Adder]]
+- [[Notes/Half Adder\|Half Adder]]
+- [[Notes/Integer Division\|Integer Division]]
 - [[Notes/Integer Multiplication\|Integer Multiplication]]
 - [[Notes/Arithmetic Logic Unit\|Arithmetic Logic Unit]]
 - [[Notes/Data Hazard in CPU\|Data Hazard in CPU]]
