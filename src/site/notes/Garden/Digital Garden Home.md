@@ -10,6 +10,8 @@ I hope you can find what you are looking for here.
 >Use CTRL + K to search notes
 
 ## All Notes
+- [[Inbox/Physical Register File\|Physical Register File]]
+- [[Inbox/Architected Register File\|Architected Register File]]
 - [[Notes/Register Alias Table\|Register Alias Table]]
 - [[Notes/Reservation Station\|Reservation Station]]
 - [[Notes/Reorder Buffer\|Reorder Buffer]]
