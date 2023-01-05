@@ -7,7 +7,7 @@
 # Reorder Buffer
 The [[Notes/Reorder Buffer\|Reorder Buffer]] is a hardware unit used in [[Notes/Out Of Order Execution\|Out Of Order Execution]], and can also be thought of as the physical registers.
 
-The [[Notes/Reorder Buffer\|ROB]] is a circular table (FIFO queue) that each of its rows store:
+The [[Notes/Reorder Buffer\|ROB]] is a cyclic buffer (FIFO queue) that each of its rows store:
 - Instruction number
 - Instruction - `add R2, R1, R1` for example
 - Target register (architectonic register)
