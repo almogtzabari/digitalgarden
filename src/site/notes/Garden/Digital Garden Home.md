@@ -16,7 +16,7 @@ I hope you can find what you are looking for here.
 - [[Notes/Register Renaming\|Register Renaming]]
 - [[Notes/Instructions Per Cycle\|Instructions Per Cycle]]
 - [[Notes/Most Significant Bit\|Most Significant Bit]]
-- [[Notes/Twos Complement\|Twos Complement]]
+- [[Notes/Twos Complement Integer Representation\|Twos Complement Integer Representation]]
 - [[Notes/Integer Subtraction\|Integer Subtraction]]
 - [[Notes/Ripple Carry Adder\|Ripple Carry Adder]]
 - [[Notes/Full Adder\|Full Adder]]
