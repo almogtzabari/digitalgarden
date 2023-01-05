@@ -5,7 +5,7 @@
 
 
 # Physical Register File
-[[Notes/Physical Register File\|Physical Register File]] (PRL) is a set of registers available to the micro-architecture that is used in [[Notes/Out Of Order Execution\|Out Of Order Execution]] for [[Notes/Register Renaming\|Register Renaming]] purposes.
+[[Notes/Physical Register File\|Physical Register File]] (PRF) is a set of registers available to the micro-architecture that is used in [[Notes/Out Of Order Execution\|Out Of Order Execution]] for [[Notes/Register Renaming\|Register Renaming]] purposes.
 
 Unlike [[Notes/Architected Register File\|Architected Register File]] (ARF), the [[Notes/Physical Register File\|Physical Register File]] is not exposed to the programmer/[[Notes/Compiler\|Compiler]].
 
