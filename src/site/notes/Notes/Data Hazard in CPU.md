@@ -9,7 +9,9 @@
 Data hazard is a type of [[Notes/Pipeline Hazards in CPU\|Pipeline Hazards in CPU]] that occur due to dependencies of data between two or more instructions.
 
 There are 3 main types of data hazards:
-- **R**ead **A**fter **W**rite - Occurs when an instruction consumes data that was produced by earlier instruction. this is a *True-dependency* because we have to read the right data (after it is modified). ^af4605
+- **R**ead **A**fter **W**rite - Occurs when an instruction consumes data that was produced by earlier instruction. this is a *True-dependency* because we have to read the right data (after it is modified).
+{ #af4605}
+
 - **W**rite **A**fter **R**ead - also called *Anti-dependency* (called like this because it's the opposite of **RAW**). This can easily be resolved using [[Notes/Register Renaming\|Register Renaming]].
 - **W**rite **A**fter **W**rite - also called *False-dependency*.
 
