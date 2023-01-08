@@ -9,8 +9,8 @@ The runtime of a program that run on CPU is given by:
 $$
 CPU\_Time = IC\cdot CPI\cdot CT
 $$
+{ #accf4d}
 
-^accf4d
 
 Where:
 - [[Notes/Instruction Count\|IC]] - how many instructions the program has
