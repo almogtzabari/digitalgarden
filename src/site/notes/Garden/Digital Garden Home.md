@@ -10,6 +10,8 @@ I hope you can find what you are looking for here.
 >Use CTRL + K to search notes
 
 ## All Notes
+- [[Notes/Big Endian\|Big Endian]]
+- [[Notes/Little Endian\|Little Endian]]
 - [[Notes/Physical Register File\|Physical Register File]]
 - [[Notes/Architected Register File\|Architected Register File]]
 - [[Notes/Register Alias Table\|Register Alias Table]]
