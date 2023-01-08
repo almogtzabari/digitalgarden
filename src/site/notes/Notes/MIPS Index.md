@@ -14,29 +14,12 @@ Where:
 - [[Notes/Runtime of program on CPU\|CPUTime]] - How much time it takes for the program to run
 
 If we use 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/notes/runtime-of-program-on-cpu/#accf4d" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-
-
-
-# Runtime of program on CPU
-The runtime of a program that run on CPU is given by:
 $
 CPU\_Time = IC\cdot CPI\cdot CT
-$
-
-^accf4d
-
-Where:
-- [[Notes/Instruction Count\|IC]] - how many instructions the program has
-- [[Notes/Cycles Per Instruction\|CPI]] - how many cycles are required to run the average instruction
-- **CT - Cycle Time** - how much time is spent on a cycle.
-
-The units are:
-$
-[Instructions]\cdot \frac{Cycles}{Instructions}\cdot \frac{Time}{Cycle} = [Time]
 $
 
 </div></div>
