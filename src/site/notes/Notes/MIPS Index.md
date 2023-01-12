@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/mips-index/"}
+{"dg-publish":true,"permalink":"/notes/mips-index/","tags":[null]}
 ---
 
 
