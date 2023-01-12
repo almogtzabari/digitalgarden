@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/duffs-device-loop-unrolling-technique/"}
+{"dg-publish":true,"permalink":"/notes/duffs-device-loop-unrolling-technique/","tags":[null]}
 ---
 
 
