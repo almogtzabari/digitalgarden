@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/super-scalar-cpu-architecture/"}
+{"dg-publish":true,"permalink":"/notes/super-scalar-cpu-architecture/","tags":[null]}
 ---
 
 
