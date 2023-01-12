@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/most-significant-bit/"}
+{"dg-publish":true,"permalink":"/notes/most-significant-bit/","tags":[null]}
 ---
 
 
