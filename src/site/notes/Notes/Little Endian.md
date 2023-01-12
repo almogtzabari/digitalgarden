@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/little-endian/"}
+{"dg-publish":true,"permalink":"/notes/little-endian/","tags":[null]}
 ---
 
 
