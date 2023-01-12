@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/architected-register-file/"}
+{"dg-publish":true,"permalink":"/notes/architected-register-file/","tags":[null]}
 ---
 
 
