@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/forcing-the-use-of-keyword-argument-in-a-python-function/"}
+{"dg-publish":true,"permalink":"/notes/forcing-the-use-of-keyword-argument-in-a-python-function/","tags":[null]}
 ---
 
 
