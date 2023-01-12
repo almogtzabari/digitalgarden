@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/pipeline-hazards-in-cpu/"}
+{"dg-publish":true,"permalink":"/notes/pipeline-hazards-in-cpu/","tags":[null]}
 ---
 
 
