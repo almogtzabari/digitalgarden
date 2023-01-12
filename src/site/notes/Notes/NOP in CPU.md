@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/nop-in-cpu/"}
+{"dg-publish":true,"permalink":"/notes/nop-in-cpu/","tags":[null]}
 ---
 
 
