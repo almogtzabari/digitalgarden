@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/full-adder/"}
+{"dg-publish":true,"permalink":"/notes/full-adder/","tags":[null]}
 ---
 
 
