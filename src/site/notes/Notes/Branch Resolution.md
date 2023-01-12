@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/branch-resolution/"}
+{"dg-publish":true,"permalink":"/notes/branch-resolution/","tags":[null]}
 ---
 
 
