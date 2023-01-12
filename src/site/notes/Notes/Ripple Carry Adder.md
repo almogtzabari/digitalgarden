@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/ripple-carry-adder/"}
+{"dg-publish":true,"permalink":"/notes/ripple-carry-adder/","tags":[null]}
 ---
 
 
