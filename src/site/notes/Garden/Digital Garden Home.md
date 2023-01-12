@@ -10,7 +10,10 @@ I hope you can find what you are looking for here.
 >Use CTRL + K to search notes
 
 ## All Notes
+- [[Inbox/Depth-First Search\|Depth-First Search]]
+- [[Inbox/Graph Search Algorithms\|Graph Search Algorithms]]
 - [[Notes/Breadth-First Search\|Breadth-First Search]]
+- [[Notes/A Star Algorithm\|A Star Algorithm]]
 - [[Inbox/Fork in Linux\|Fork in Linux]]
 - [[Notes/Big Endian\|Big Endian]]
 - [[Notes/Little Endian\|Little Endian]]
