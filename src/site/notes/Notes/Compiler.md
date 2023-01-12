@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/compiler/"}
+{"dg-publish":true,"permalink":"/notes/compiler/","tags":[null]}
 ---
 
 
