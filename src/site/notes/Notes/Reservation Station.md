@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/reservation-station/"}
+{"dg-publish":true,"permalink":"/notes/reservation-station/","tags":[null]}
 ---
 
 
