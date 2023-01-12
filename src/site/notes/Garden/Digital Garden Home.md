@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/digital-garden-home/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/garden/digital-garden-home/","tags":["gardenEntry"]}
 ---
 
 
@@ -10,6 +10,8 @@ I hope you can find what you are looking for here.
 >Use CTRL + K to search notes
 
 ## All Notes
+- [[Notes/Breadth-First Search\|Breadth-First Search]]
+- [[Inbox/Fork in Linux\|Fork in Linux]]
 - [[Notes/Big Endian\|Big Endian]]
 - [[Notes/Little Endian\|Little Endian]]
 - [[Notes/Physical Register File\|Physical Register File]]
@@ -30,7 +32,7 @@ I hope you can find what you are looking for here.
 - [[Notes/Arithmetic Logic Unit\|Arithmetic Logic Unit]]
 - [[Notes/Data Hazard in CPU\|Data Hazard in CPU]]
 - [[Notes/Structural Hazard in CPU\|Structural Hazard in CPU]]
-- [[Notes/Complex Instruction Set Processor\|Complex Instruction Set Processor]]
+- [[Notes/Complex Instruction Set Computer\|Complex Instruction Set Computer]]
 - [[Notes/Instruction Set Architecture\|Instruction Set Architecture]]
 - [[Notes/SIMD\|SIMD]]
 - [[Notes/Branch Prediction\|Branch Prediction]]
