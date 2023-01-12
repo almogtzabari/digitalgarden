@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/register-alias-table/"}
+{"dg-publish":true,"permalink":"/notes/register-alias-table/","tags":[null]}
 ---
 
 
