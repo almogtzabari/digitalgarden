@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/partial-in-python/"}
+{"dg-publish":true,"permalink":"/notes/partial-in-python/","tags":[null]}
 ---
 
 
