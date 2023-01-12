@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/instructions-per-cycle/"}
+{"dg-publish":true,"permalink":"/notes/instructions-per-cycle/","tags":[null]}
 ---
 
 
