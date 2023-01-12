@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/reorder-buffer/"}
+{"dg-publish":true,"permalink":"/notes/reorder-buffer/","tags":[null]}
 ---
 
 
