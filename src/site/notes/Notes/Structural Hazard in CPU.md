@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/structural-hazard-in-cpu/"}
+{"dg-publish":true,"permalink":"/notes/structural-hazard-in-cpu/","tags":[null]}
 ---
 
 
