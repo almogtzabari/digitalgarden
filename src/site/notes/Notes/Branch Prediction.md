@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/branch-prediction/"}
+{"dg-publish":true,"permalink":"/notes/branch-prediction/","tags":[null]}
 ---
 
 
