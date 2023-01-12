@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/runtime-of-program-on-cpu/"}
+{"dg-publish":true,"permalink":"/notes/runtime-of-program-on-cpu/","tags":[null]}
 ---
 
 
