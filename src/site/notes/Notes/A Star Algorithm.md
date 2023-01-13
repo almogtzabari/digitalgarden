@@ -7,7 +7,8 @@
 # A Star Algorithm
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c2/Astarpathfinding.gif)
 
-[[Notes/A Star Algorithm\|A Star Algorithm]] is an algorithm in the [[Inbox/Graph Search Algorithms\|Graph Search Algorithms]] family which finds the shortest path [^1] between `source` and `target` nodes/points **in a large graph**.
+
+[[Notes/A Star Algorithm\|A Star Algorithm]] is an algorithm in the [[Inbox/Graph Search Algorithms\|Graph Search Algorithms]] family which finds the shortest path[^1] between `source` and `target` nodes/points **in a large graph**.
 
 This algorithm is good for large graphs because, unlike [[Notes/Breadth-First Search\|Breadth-First Search]], the next node to examine is chosen based on its distance from the `source` (lower is better, similar to [[Notes/Breadth-First Search\|BFS]]) AND its distance to `target` (based on a heuristic function, and also, lower is better).
 
@@ -22,9 +23,14 @@ This algorithm is good for large graphs because, unlike [[Notes/Breadth-First Se
 In [[Notes/A Star Algorithm#Notations\|formal notation]]:
 $$ \forall node\in nodes:\ h(node) \leq h^{*}(node) $$
 
+## Intuition
+- Start from `source` node and continue outwards.
+- At each step examine the the `node` in the queue with the lowest `f` value.
+- Go through `node`'s children and update their `g` value. For each child, if we achieved better `g` value and the child is already in *closed* ==> re-insert to *open* queue (and removed from *closed*).
+
 ## Implementation
 ```python
-Class Node:
+class Node:
 	def __init__(self, data, children):
 		self.data = data
 		self.children = children
@@ -38,7 +44,7 @@ def astar(source, target, h_fn):
 	cl = set()        # Closed
 
 	while len(op) > 0:
-		cur = min(op, key: lambda node: g[node]+h(node))
+		cur = min(op, key=lambda node: g[node]+h(node))
 		op.remove(cur)
 		cl.add(cur)
 		if cur == target:
