@@ -8,7 +8,7 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c2/Astarpathfinding.gif)
 
 
-[[Notes/A-Star Algorithm\|A-Star Algorithm]] is an algorithm in the [[Inbox/Graph Search Algorithms\|Graph Search Algorithms]] family which finds the shortest path[^1] between `source` and `target` nodes/points **in a large graph**.
+[[Notes/A-Star Algorithm\|A-Star Algorithm]] is an algorithm in the [[Notes/Graph Search Algorithms\|Graph Search Algorithms]] family which finds the shortest path[^1] between `source` and `target` nodes/points **in a large graph**.
 
 This algorithm is good for large graphs because, unlike [[Notes/Breadth-First Search Algorithm\|Breadth-First Search Algorithm]], the next node to examine is chosen based on its distance from the `source` (lower is better, similar to [[Notes/Breadth-First Search Algorithm\|BFS]]) AND its distance to `target` (based on a heuristic function, and also, lower is better).
 
@@ -16,7 +16,7 @@ This algorithm is good for large graphs because, unlike [[Notes/Breadth-First Se
 - $g(node) \equiv$ Real distance between `node` and `source`.
 - $h^{*}(node) \equiv$ Real distance between `node` and `target`.
 - $h(node) \equiv$ Predicted distance between `node` and `target`.
-- $f(node) \equiv g(node) + f(node)$ 
+- $f(node) \equiv g(node) + h(node)$ 
 
 ## Completeness
 [[Notes/A-Star Algorithm\|A-Star Algorithm]] is a complete algorithm[^2] as long as one condition apply: **the heuristic function must always predict a distance that is less than or equal to real distance.** 
@@ -25,7 +25,7 @@ $$ \forall node\in nodes:\ h(node) \leq h^{*}(node) $$
 
 ## Intuition
 - Start from `source` node and continue outwards.
-- At each step examine the the `node` in the queue with the lowest `f` value.
+- At each step examine the `node` in the queue with the lowest `f` value (see [[Notes/A-Star Algorithm#Notations\|notations]]).
 - Go through `node`'s children and update their `g` value. For each child, if we achieved better `g` value and the child is already in *closed* ==> re-insert to *open* queue (and removed from *closed*).
 
 ## Implementation
