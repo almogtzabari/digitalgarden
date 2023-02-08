@@ -5,6 +5,14 @@
 
 
 # Makefile
+## What is a Makefile?
+A Makefile is a file used in software development to automate the process of building and compiling software programs. It's typically used in projects that are written in programming languages like [[C\|C]], [[Notes/C++\|C++]], and Fortran, but it can be used for other types of projects as well. The Makefile contains a set of rules and dependencies that describe how the software is built, and how its components are related to each other.
+
+When you run the "make" command, it reads the Makefile and determines the current state of the software project. If any of the components of the project have been modified, the make command will recompile those components and link them to form the final executable program. If none of the components have been modified, the make command will skip the build process and simply return the current state of the software.
+
+The key benefit of using a Makefile is that it saves time and effort by automating the build process. With a well-written Makefile, developers can simply type "make" to compile their software, without having to manually track dependencies and recompile individual components. This makes it easier to keep track of the build process and ensures that the software is always up-to-date and in a consistent state.
+
+## Makefile Structure
 A Makefile is a file defining the rules of how to compile/build, and has the following structure:
 ```makefile
 target: dependencies
