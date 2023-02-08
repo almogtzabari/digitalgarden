@@ -7,6 +7,8 @@
 # A Star Algorithm
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c2/Astarpathfinding.gif)
 
+>[!info]
+>A\* (pronounced "A-star") is a popular algorithm used in computer science for finding the shortest path between two points, such as finding the best path between two locations on a map. It combines the strengths of two other algorithms: Dijkstra's algorithm, which finds the shortest path, and a heuristic algorithm, which allows for an informed guess of the cost to reach the goal, making the search more efficient. A\* works by maintaining a priority queue of nodes to visit, where the priority of each node is based on the sum of its current cost and its estimated cost to reach the goal. This allows the algorithm to prioritize visiting nodes that are more likely to lead to the goal, making the search faster and more efficient. A\* is widely used in various applications, including video game AI, navigation systems, and robotics.
 
 [[Notes/A-Star Algorithm\|A-Star Algorithm]] is an algorithm in the [[Notes/Graph Search Algorithms\|Graph Search Algorithms]] family which finds the shortest path[^1] between `source` and `target` nodes/points **in a large graph**.
 
