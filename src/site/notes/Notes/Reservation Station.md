@@ -5,7 +5,7 @@
 
 
 # Reservation Station
-A [[Notes/Reservation Station\|Reservation Station]] is some kind of a queue for execution units inside an [[Notes/Out Of Order Execution\|Out Of Order Execution]] [[Notes/CPU\|CPU]].
+A [[Notes/Reservation Station\|Reservation Station]] is some kind of a queue for execution units inside an [[Notes/Out Of Order Execution\|Out Of Order Execution]] [[Notes/Central Processing Unit\|Central Processing Unit]].
 
 Each execution unit (Integers/Floating Point, etc.) has its own [[Notes/Reservation Station\|Reservation Station]]. 
 
