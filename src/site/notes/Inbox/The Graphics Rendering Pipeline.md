@@ -5,6 +5,9 @@
 
 
 # The Graphics Rendering Pipeline
+## What is the rendering pipeline?
+- A series of stages that take place in order to render and image to the screen.
+- Four stages are programmable via [[Inbox/Shader\|Shaders]].
 ## General Overview
 1. *Build*: Object is built by an artist and represented as a mesh of triangles defining the surface of the object.
 2. *Animate*: For each frame of rendering we animate each vertex in the mesh to place object correctly sized and oriented (#TODO : clarification).
