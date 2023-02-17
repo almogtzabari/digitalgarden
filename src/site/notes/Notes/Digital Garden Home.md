@@ -10,6 +10,8 @@ I hope you can find what you are looking for here.
 >Use CTRL + K to search notes
 
 ## All Notes
+- [[Inbox/Vertex Buffer Object\|Vertex Buffer Object]]
+- [[Inbox/Vertex Array Object\|Vertex Array Object]]
 - [[Inbox/Rasterization\|Rasterization]]
 - [[Inbox/Graphics Processing Unit\|Graphics Processing Unit]]
 - [[Inbox/The Graphics Rendering Pipeline\|The Graphics Rendering Pipeline]]
