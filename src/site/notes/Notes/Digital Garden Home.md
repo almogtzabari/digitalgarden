@@ -66,6 +66,7 @@ I hope you can find what you are looking for here.
 - [[Notes/Forcing the use of keyword argument in a Python function\|Forcing the use of keyword argument in a Python function]]
 - [[Notes/Assert in Python\|Assert in Python]]
 - [[Notes/Digital Garden Home\|Digital Garden Home]]
+- [[Notes/Strict Mode in JavaScript\|Strict Mode in JavaScript]]
 - [[Notes/Python Software Foundation\|Python Software Foundation]]
 - [[Notes/Bash Shell\|Bash Shell]]
 - [[Notes/Oh My Zsh\|Oh My Zsh]]
