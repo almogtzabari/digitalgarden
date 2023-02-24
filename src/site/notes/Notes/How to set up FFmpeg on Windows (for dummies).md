@@ -4,7 +4,7 @@
 
 
 
-# How to set up FFmpeg on Windows (for dummies)
+# How to set up [[Notes/FFmpeg\|FFmpeg]] on [[Notes/Microsoft Windows\|Windows]] (for dummies)
 To get started with [[Notes/FFmpeg\|FFmpeg]], follow these steps:
 1. Download [[Notes/FFmpeg\|FFmpeg]].
 	1. Go to [official download page](https://www.ffmpeg.org/download.html).
