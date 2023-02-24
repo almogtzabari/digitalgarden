@@ -10,12 +10,13 @@ I hope you can find what you are looking for here.
 >Use CTRL + K to search notes
 
 ## All Notes
-- [[Inbox/Vertex Buffer Object\|Vertex Buffer Object]]
-- [[Inbox/Vertex Array Object\|Vertex Array Object]]
-- [[Inbox/Rasterization\|Rasterization]]
-- [[Inbox/Graphics Processing Unit\|Graphics Processing Unit]]
-- [[Inbox/The Graphics Rendering Pipeline\|The Graphics Rendering Pipeline]]
-- [[Inbox/Makefile\|Makefile]]
+- [[Inbox/Inline Functions In C++\|Inline Functions In C++]]
+- [[Notes/Vertex Buffer Object\|Vertex Buffer Object]]
+- [[Notes/Vertex Array Object\|Vertex Array Object]]
+- [[Notes/Rasterization\|Rasterization]]
+- [[Notes/Graphics Processing Unit\|Graphics Processing Unit]]
+- [[Notes/The Graphics Rendering Pipeline\|The Graphics Rendering Pipeline]]
+- [[Notes/Makefile\|Makefile]]
 - [[Notes/Depth-First Search\|Depth-First Search]]
 - [[Notes/Graph Search Algorithms\|Graph Search Algorithms]]
 - [[Notes/Breadth-First Search Algorithm\|Breadth-First Search Algorithm]]
