@@ -6,6 +6,7 @@
 
 
 # C++
+- [[Inbox/CMake\|CMake]]
 - [[Inbox/Inline Functions In C++\|Inline Functions In C++]]
 - [[Notes/C++ Macro Operator\|C++ Macro Operator]]
 - [[Notes/Makefile\|Makefile]]
