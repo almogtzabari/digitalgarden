@@ -5,7 +5,7 @@
 
 
 # Loop Unrolling
-[[Notes/Loop Unrolling\|Loop Unrolling]] is a software optimization step, usually done by the [[Notes/Compiler\|Compiler]] in order to improve performance.
+[[Notes/Loop Unrolling\|Loop Unrolling]] is a [[Notes/Software\|software]] optimization step, usually done by the [[Notes/Compiler\|Compiler]] in order to improve performance.
 The idea is to minimize the amount of branches in the code, which leads to less [[Notes/CPU Pipeline\|pipeline]] flushes.
 
 ![Pasted image 20221222180147.png](/img/user/Assets/Pasted%20image%2020221222180147.png)
