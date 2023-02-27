@@ -4,7 +4,7 @@
 
 
 
-# Inline Functions In C++
+# Inline Functions In [[Notes/C++\|C++]]
 ## Why do we need inline functions?
 Look at the following code:
 ```c
