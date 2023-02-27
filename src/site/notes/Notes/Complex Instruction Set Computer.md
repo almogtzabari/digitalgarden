@@ -7,12 +7,12 @@
 # Complex Instruction Set Computer
 [[Notes/Complex Instruction Set Computer\|Complex Instruction Set Computer]], also known as CISC, means that the [[Notes/Instruction Set Architecture\|ISA]] is large and supports many instructions, some of these instructions are complex.
 The idea is to allow a higher level machine language - [[Assembly\|Assembly]] programmers' job will be easier.
-An example for a CISC is Intel's x86.
+An example for a CISC is [[Notes/Intel\|Intel]]'s x86.
 
 ## Characteristics
 - Many instruction types, many addressing modes
 - Some instructions are complex (and require more cycles)
-- ALU operations directly on memory
+- [[Notes/Arithmetic Logic Unit\|ALU]] operations directly on memory
 - Variable length instructions - frequent instructions get shorter op-code, which in turn saves memory
 
 ## Drawbacks
