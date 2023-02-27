@@ -4,7 +4,7 @@
 
 
 
-# Partial in Python
+# Partial in [[Notes/Python\|Python]]
 `partial` in [[Notes/Python\|Python]] allows us to call a function with partially applied parameters.
 
 > [!EXAMPLE]
