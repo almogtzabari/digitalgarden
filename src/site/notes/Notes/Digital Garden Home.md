@@ -10,6 +10,7 @@ I hope you can find what you are looking for here.
 >Use CTRL + K to search notes
 
 ## All Notes
+- [[C++ Rule of Three\|C++ Rule of Three]]
 - [[Notes/Inline Functions In C++\|Inline Functions In C++]]
 - [[Notes/Vertex Buffer Object\|Vertex Buffer Object]]
 - [[Notes/Vertex Array Object\|Vertex Array Object]]
