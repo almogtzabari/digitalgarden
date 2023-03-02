@@ -15,3 +15,5 @@ if you need to implement **any** of these 3 methods:
 >[!WARNING] Then
 >Then you need to implement all of them.
 
+## Why?
+Unless implemented, the [[Notes/Compiler\|Compiler]] will define a default for the above methods, however, if we change one of these then the default version of the other two won't be sufficient.
