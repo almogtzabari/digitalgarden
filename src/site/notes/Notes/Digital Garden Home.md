@@ -10,6 +10,7 @@ I hope you can find what you are looking for here.
 >Use CTRL + K to search notes
 
 ## All Notes
+- [[Inbox/C++ Compilation Process\|C++ Compilation Process]]
 - [[Inbox/How to change cache size on C++ extension for VSCode\|How to change cache size on C++ extension for VSCode]]
 - [[Inbox/How to change vscode-server directory location\|How to change vscode-server directory location]]
 - [[Inbox/ZS Testing\|ZS Testing]]
