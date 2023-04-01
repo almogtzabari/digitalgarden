@@ -4,6 +4,7 @@
 
 
 
+![Pasted image 20230317151727.png](/img/user/Assets/Pasted%20image%2020230317151727.png)
 # [[Notes/C++\|C++]] Compilation Process
 
 [[Notes/C++\|C++]] is a powerful and versatile [[Notes/Programming\|programming]] language that can be used for various purposes, such as system [[Notes/Programming\|programming]], game development, web development, and more. However, before a [[Notes/C++\|C++]] program can run on a computer, it has to go through several steps of transformation from human-readable code to machine-executable code. This process is called compilation and it involves three main stages: preprocessing, compilation, and linking.
