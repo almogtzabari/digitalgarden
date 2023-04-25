@@ -14,7 +14,7 @@ I hope you can find what you are looking for here.
 - [[Notes/How to change cache size on C++ extension for VSCode\|How to change cache size on C++ extension for VSCode]]
 - [[Notes/How to change vscode-server directory location\|How to change vscode-server directory location]]
 - [[Notes/ZS Testing\|ZS Testing]]
-- [[C++ Rule of Three\|C++ Rule of Three]]
+- [[Notes/C++ Rule of Three 1\|C++ Rule of Three 1]]
 - [[Notes/C++ Rule of Three\|C++ Rule of Three]]
 - [[Notes/Inline Functions In C++\|Inline Functions In C++]]
 - [[Notes/Vertex Buffer Object\|Vertex Buffer Object]]
