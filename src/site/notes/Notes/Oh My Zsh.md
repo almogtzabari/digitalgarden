@@ -13,6 +13,7 @@
 - [[Notes/How to install Oh My Zsh\|How to install Oh My Zsh]]
 - [[Notes/Powerlevel10K Zsh Theme\|Powerlevel10K Zsh Theme]]
 
+{ .block-language-dataview}
 
 
 
