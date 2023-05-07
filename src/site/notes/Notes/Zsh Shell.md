@@ -15,4 +15,5 @@ It is recommended (and probably easier) to customize [[Notes/Zsh Shell\|Zsh]]  w
 - [[Notes/Oh My Zsh\|Oh My Zsh]]
 - [[Notes/Powerlevel10K Zsh Theme\|Powerlevel10K Zsh Theme]]
 
+{ .block-language-dataview}
 
