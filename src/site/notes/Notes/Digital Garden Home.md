@@ -92,3 +92,5 @@ I hope you can find what you are looking for here.
 - [[Notes/Python\|Python]]
 - [[Notes/How to hide prints in Python\|How to hide prints in Python]]
 - [[Notes/How to convert PDF to images using Python\|How to convert PDF to images using Python]]
+
+{ .block-language-dataview}
