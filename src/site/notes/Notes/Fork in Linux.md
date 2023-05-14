@@ -5,7 +5,7 @@
 
 
 # Fork in Linux
-In [[Notes/Linux\|Linux]], fork is a [[System Call\|System Call]] (provided by the [[Notes/Operating System\|OS]]) where a parent (current) [[Notes/Process\|Process]] is duplicated, along with its registers, memory, Program Counter, etc., in order to create a new [[Notes/Process\|Process]].
+In [[Notes/Linux\|Linux]], fork is a [[System Call\|System Call]] (provided by the [[Notes/Operating System\|OS]]) where a parent (current) [[Process\|Process]] is duplicated, along with its registers, memory, Program Counter, etc., in order to create a new [[Process\|Process]].
 
 ```c
 int main(){
