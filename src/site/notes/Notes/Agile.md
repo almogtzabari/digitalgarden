@@ -7,7 +7,7 @@
 # Agile
 ## What is Agile?
 - Agile is a set of values and principles
-- Agile is collection of beliefs that teams can use for making decisions about how to do the work of developing software.
+- Agile is collection of beliefs that teams can use for making decisions about how to do the work of developing [[Notes/Software\|software]].
 
 ## What Agile is NOT?
 - Methodology
