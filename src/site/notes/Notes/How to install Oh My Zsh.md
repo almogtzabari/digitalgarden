@@ -5,7 +5,7 @@
 
 
 
-# How to install Oh My Zsh
+# How to install [[Notes/Oh My Zsh\|Oh My Zsh]]
 
 1. Install [[Notes/Zsh Shell\|Zsh]]:
 ```
