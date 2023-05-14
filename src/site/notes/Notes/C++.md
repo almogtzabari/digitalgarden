@@ -9,7 +9,6 @@
 - [[Notes/C++ Compilation Process\|C++ Compilation Process]]
 - [[Notes/C++ Macro Operator\|C++ Macro Operator]]
 - [[Notes/C++ Rule of Three\|C++ Rule of Three]]
-- [[Notes/C++ Rule of Three 1\|C++ Rule of Three 1]]
 - [[Notes/CMake\|CMake]]
 - [[Notes/Advanced C++ Course Notes\|Advanced C++ Course Notes]]
 - [[Notes/Inline Functions In C++\|Inline Functions In C++]]
