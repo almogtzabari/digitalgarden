@@ -5,7 +5,7 @@
 
 
 # Instruction Set Architecture
-[[Notes/Instruction Set Architecture\|ISA]] is the instruction set that the architecture defines, and it is the lowest layer of abstraction that the user and the compiler sees. It is similar to [[Inbox/Application Programming Interface\|API]] in the sense that it defines which [[Inbox/Application Programming Interface\|API]] calls are available (=instructions) and the user doesn't care how it is implemented underneath.
+[[Notes/Instruction Set Architecture\|ISA]] is the instruction set that the architecture defines, and it is the lowest layer of abstraction that the user and the [[Notes/Compiler\|compiler]] sees. It is similar to [[Notes/Application Programming Interface\|API]] in the sense that it defines which [[Notes/Application Programming Interface\|API]] calls are available (=instructions) and the user doesn't care how it is implemented underneath.
 
 ## Considerations in ISA design
 Since [[Notes/Instruction Set Architecture\|ISA]] is the interface of a processor with the external world, it is important to define it as best as we can.
