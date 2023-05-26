@@ -4,7 +4,7 @@
 
 
 
-# C++ Rule of Three
+# [[Notes/C++\|C++]] Rule of Three
 The rule of three in [[Notes/C++\|C++]] says that:
 >[!QUESTION] If
 if you need to implement **any** of these 3 methods:
