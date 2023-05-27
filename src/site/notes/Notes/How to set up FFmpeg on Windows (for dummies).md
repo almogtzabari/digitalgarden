@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/how-to-set-up-f-fmpeg-on-windows-for-dummies/"}
+{"dg-publish":true,"dg-path":"How to set up FFmpeg on Windows (for dummies).md","permalink":"/how-to-set-up-f-fmpeg-on-windows-for-dummies/"}
 ---
 
 
