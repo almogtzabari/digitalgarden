@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/software/","tags":[null]}
+{"dg-publish":true,"dg-path":"Software.md","permalink":"/software/","tags":[null]}
 ---
 
 
