@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/c-macro-operator/"}
+{"dg-publish":true,"dg-path":"C++ Macro Operator.md","permalink":"/c-macro-operator/"}
 ---
 
 
