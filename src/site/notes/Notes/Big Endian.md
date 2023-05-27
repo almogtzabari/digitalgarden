@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/big-endian/","tags":[null]}
+{"dg-publish":true,"dg-path":"Big Endian.md","permalink":"/big-endian/","tags":[null]}
 ---
 
 
