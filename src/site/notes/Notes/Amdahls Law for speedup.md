@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/amdahls-law-for-speedup/","tags":[null]}
+{"dg-publish":true,"dg-path":"Amdahls Law for speedup.md","permalink":"/amdahls-law-for-speedup/","tags":[null]}
 ---
 
 
