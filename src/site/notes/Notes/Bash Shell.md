@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/bash-shell/"}
+{"dg-publish":true,"dg-path":"Bash Shell.md","permalink":"/bash-shell/"}
 ---
 
 
