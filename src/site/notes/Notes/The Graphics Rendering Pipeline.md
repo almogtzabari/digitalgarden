@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/the-graphics-rendering-pipeline/","tags":[null]}
+{"dg-publish":true,"dg-path":"The Graphics Rendering Pipeline.md","permalink":"/the-graphics-rendering-pipeline/","tags":[null]}
 ---
 
 
