@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/notes/digital-garden-home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/notes/digital-garden-home/","contentClasses":"rtl","tags":["gardenEntry"]}
 ---
 
 
-# Welcome to my digital garden
-Hi, and welcome to my digital garden.
-I hope you can find what you are looking for here.
->[!tip]
->Use CTRL + K to search notes
+# ברוכים הבאים לגן הדיגיטלי
+אני מקווה שתוכלו למצוא כאן מידע שימושי.
 
+
+>[!tip] טיפ
+>השתמשו ב- CTRL + K על מנת לחפש.
