@@ -35,6 +35,6 @@ Borderlands 3, הוא משחק יריות מגוף ראשון (FPS) שנוצר �
 | 2022/10/09 | [[Notes/Borderlands 3 Amara (Siren) Skill Tree EXP Farm\|Borderlands 3 Amara (Siren) Skill Tree EXP Farm]]                                                                                     |
 | 2022/09/10 | [[Notes/Gearbox Software\|Gearbox Software]]                                                                                                                                                   |
 | 2022/08/24 | [[Notes/Borderlands Series\|Borderlands Series]]                                                                                                                                               |
-| 2022/01/17 | [[Notes/גיימינג\|גיימינג]]                                                                                                                                                                     |
+| 2022/01/17 | [[Notes/Gaming\|Gaming]]                                                                                                                                                                       |
 
 { .block-language-dataview}
