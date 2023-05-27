@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/zsh-shell/"}
+{"dg-publish":true,"dg-path":"Zsh Shell.md","permalink":"/zsh-shell/"}
 ---
 
 
