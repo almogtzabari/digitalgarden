@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/how-to-change-cache-size-on-c-extension-for-vs-code/","tags":[null]}
+{"dg-publish":true,"dg-path":"How to change cache size on C++ extension for VSCode.md","permalink":"/how-to-change-cache-size-on-c-extension-for-vs-code/","tags":[null]}
 ---
 
 
