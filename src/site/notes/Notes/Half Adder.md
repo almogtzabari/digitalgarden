@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/half-adder/","tags":[null]}
+{"dg-publish":true,"dg-path":"Half Adder.md","permalink":"/half-adder/","tags":[null]}
 ---
 
 
