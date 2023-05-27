@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/powerlevel10-k-zsh-theme/"}
+{"dg-publish":true,"dg-path":"Powerlevel10K Zsh Theme.md","permalink":"/powerlevel10-k-zsh-theme/"}
 ---
 
 
