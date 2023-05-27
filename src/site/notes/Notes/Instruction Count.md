@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/instruction-count/"}
+{"dg-publish":true,"dg-path":"Instruction Count.md","permalink":"/instruction-count/"}
 ---
 
 
