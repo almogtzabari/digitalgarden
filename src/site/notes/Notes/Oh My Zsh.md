@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/oh-my-zsh/"}
+{"dg-publish":true,"dg-path":"Oh My Zsh.md","permalink":"/oh-my-zsh/"}
 ---
 
 
