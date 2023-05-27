@@ -1,5 +1,3 @@
-rtl {
-     .content {
-         direction: rtl;
-     }
+hebrew_rtl {
+     direction: rtl;
 }
