@@ -4,6 +4,7 @@
 
 
 
+![Borderlands3 Banner.jpg](/img/user/Assets/Banners/Borderlands3%20Banner.jpg)
 # Borderlands 3
 ## על המשחק
 
