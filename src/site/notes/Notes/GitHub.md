@@ -19,8 +19,6 @@
 ### פתקים קשורים
 | תאריך      | שם הפתק                                                                                                                                                       |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2023/01/17 | [[Meetings/2023-01-17 Meeting 1 with Rini LLH\|2023-01-17 Meeting 1 with Rini LLH]]                                                                        |
-| 2022/12/18 | [[Notes/Intel HR Workshop - How to write good CV\|Intel HR Workshop - How to write good CV]]                                                               |
 | 2022/10/16 | [[Readwise/Articles/🌊 a Refreshing New Browser\|🌊 a Refreshing New Browser]]                                                                             |
 | 2022/10/13 | [[Readwise/Articles/GitHub's New Privacy Policy Sparks Backlash Over Tracking Cookies\|GitHub's New Privacy Policy Sparks Backlash Over Tracking Cookies]] |
 | 2022/08/12 | [[Notes/Microsoft\|Microsoft]]                                                                                                                             |
