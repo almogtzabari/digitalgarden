@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Digital Garden Home.md","permalink":"/digital-garden-home/","title":"000 Digital Garden Home","contentClasses":"rtl","tags":["gardenEntry"],"noteIcon":3}
+{"dg-publish":true,"dg-path":"Digital Garden Home.md","permalink":"/digital-garden-home/","title":"000 Digital Garden Home","contentClasses":"rtl","tags":["gardenEntry"]}
 ---
 
 
