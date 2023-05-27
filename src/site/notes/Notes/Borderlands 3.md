@@ -40,3 +40,8 @@ Borderlands 3, הוא משחק יריות מגוף ראשון (FPS) שנוצר �
 | 2022/01/17 | [[Notes/Gaming\|Gaming]]                                                                                                                                                                       |
 
 { .block-language-dataview}
+
+| תאריך | שם הפתק |
+| ----- | ------- |
+
+{ .block-language-dataview}
