@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/reservation-station/","tags":[null]}
+{"dg-publish":true,"dg-path":"Reservation Station.md","permalink":"/reservation-station/","tags":[null]}
 ---
 
 
