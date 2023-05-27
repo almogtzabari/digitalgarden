@@ -1,5 +1,5 @@
-body {
-    .rtl {
-        direction: rtl;
-    }
+rtl {
+     .content {
+         direction: rtl;
+     }
 }
