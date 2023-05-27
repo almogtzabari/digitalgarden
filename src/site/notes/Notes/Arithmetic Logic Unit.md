@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/arithmetic-logic-unit/","tags":[null]}
+{"dg-publish":true,"dg-path":"Arithmetic Logic Unit.md","permalink":"/arithmetic-logic-unit/","tags":[null]}
 ---
 
 
