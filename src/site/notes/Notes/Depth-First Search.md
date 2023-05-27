@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/depth-first-search/","tags":[null]}
+{"dg-publish":true,"dg-path":"Depth-First Search.md","permalink":"/depth-first-search/","tags":[null]}
 ---
 
 
