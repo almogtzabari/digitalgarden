@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/f-fmpeg/"}
+{"dg-publish":true,"dg-path":"FFmpeg.md","permalink":"/f-fmpeg/"}
 ---
 
 
