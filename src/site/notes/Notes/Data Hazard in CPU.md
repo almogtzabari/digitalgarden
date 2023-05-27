@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/data-hazard-in-cpu/","tags":[null]}
+{"dg-publish":true,"dg-path":"Data Hazard in CPU.md","permalink":"/data-hazard-in-cpu/","tags":[null]}
 ---
 
 
