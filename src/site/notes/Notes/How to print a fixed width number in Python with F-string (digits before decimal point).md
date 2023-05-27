@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/how-to-print-a-fixed-width-number-in-python-with-f-string-digits-before-decimal-point/"}
+{"dg-publish":true,"dg-path":"How to print a fixed width number in Python with F-string (digits before decimal point).md","permalink":"/how-to-print-a-fixed-width-number-in-python-with-f-string-digits-before-decimal-point/"}
 ---
 
 
