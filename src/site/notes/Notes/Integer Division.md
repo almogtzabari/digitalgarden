@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/integer-division/","tags":[null]}
+{"dg-publish":true,"dg-path":"Integer Division.md","permalink":"/integer-division/","tags":[null]}
 ---
 
 
