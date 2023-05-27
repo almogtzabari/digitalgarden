@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/loop-unrolling/","tags":[null]}
+{"dg-publish":true,"dg-path":"Loop Unrolling.md","permalink":"/loop-unrolling/","tags":[null]}
 ---
 
 
