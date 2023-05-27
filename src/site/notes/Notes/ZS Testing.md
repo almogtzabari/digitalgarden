@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/zs-testing/","tags":[null]}
+{"dg-publish":true,"dg-path":"ZS Testing.md","permalink":"/zs-testing/","tags":[null]}
 ---
 
 
