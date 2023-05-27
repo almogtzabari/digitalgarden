@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/physical-register-file/","tags":[null]}
+{"dg-publish":true,"dg-path":"Physical Register File.md","permalink":"/physical-register-file/","tags":[null]}
 ---
 
 
