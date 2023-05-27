@@ -1,5 +1,3 @@
-body {
-     .hebrew_rtl {
-         direction: rtl;
-     }
+.hebrew_rtl {
+  direction: rtl;
 }
