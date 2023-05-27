@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/integer-subtraction/","tags":[null]}
+{"dg-publish":true,"dg-path":"Integer Subtraction.md","permalink":"/integer-subtraction/","tags":[null]}
 ---
 
 
