@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/makefile/","tags":[null]}
+{"dg-publish":true,"dg-path":"Makefile.md","permalink":"/makefile/","tags":[null]}
 ---
 
 
