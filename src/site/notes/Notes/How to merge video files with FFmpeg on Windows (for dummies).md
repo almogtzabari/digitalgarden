@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/how-to-merge-video-files-with-f-fmpeg-on-windows-for-dummies/"}
+{"dg-publish":true,"dg-path":"How to merge video files with FFmpeg on Windows (for dummies).md","permalink":"/how-to-merge-video-files-with-f-fmpeg-on-windows-for-dummies/"}
 ---
 
 
