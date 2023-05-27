@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/python/"}
+{"dg-publish":true,"dg-path":"Python.md","permalink":"/python/"}
 ---
 
 
