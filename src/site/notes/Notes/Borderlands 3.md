@@ -19,6 +19,8 @@ Borderlands 3, הוא משחק יריות מגוף ראשון (FPS) שנוצר �
 - [Metal Mars](https://mentalmars.com/borderlands-3/)
 - [Fandom](https://borderlands.fandom.com/wiki/Borderlands_Wiki)
 
+אאאאאאאא
+
  --- 
 
 ### פתקים קשורים
