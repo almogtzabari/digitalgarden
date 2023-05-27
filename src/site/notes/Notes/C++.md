@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/c/"}
+{"dg-publish":true,"dg-path":"C++.md","permalink":"/c/"}
 ---
 
 
