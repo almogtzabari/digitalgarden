@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/compiler/","tags":[null]}
+{"dg-publish":true,"dg-path":"Compiler.md","permalink":"/compiler/","tags":[null]}
 ---
 
 
