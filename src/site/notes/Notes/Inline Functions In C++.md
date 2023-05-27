@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/inline-functions-in-c/"}
+{"dg-publish":true,"dg-path":"Inline Functions In C++.md","permalink":"/inline-functions-in-c/"}
 ---
 
 
