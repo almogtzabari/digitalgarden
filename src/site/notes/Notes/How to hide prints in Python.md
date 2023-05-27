@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/how-to-hide-prints-in-python/"}
+{"dg-publish":true,"dg-path":"How to hide prints in Python.md","permalink":"/how-to-hide-prints-in-python/"}
 ---
 
 
