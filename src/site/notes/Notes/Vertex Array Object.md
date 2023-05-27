@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/vertex-array-object/","tags":[null]}
+{"dg-publish":true,"dg-path":"Vertex Array Object.md","permalink":"/vertex-array-object/","tags":[null]}
 ---
 
 
