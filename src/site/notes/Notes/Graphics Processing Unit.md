@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/graphics-processing-unit/","tags":[null]}
+{"dg-publish":true,"dg-path":"Graphics Processing Unit.md","permalink":"/graphics-processing-unit/","tags":[null]}
 ---
 
 
