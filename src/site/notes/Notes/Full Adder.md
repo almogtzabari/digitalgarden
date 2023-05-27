@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/full-adder/","tags":[null]}
+{"dg-publish":true,"dg-path":"Full Adder.md","permalink":"/full-adder/","tags":[null]}
 ---
 
 
