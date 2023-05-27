@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/f-string/"}
+{"dg-publish":true,"dg-path":"F-string.md","permalink":"/f-string/"}
 ---
 
 
