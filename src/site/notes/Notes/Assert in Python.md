@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/assert-in-python/","tags":[null]}
+{"dg-publish":true,"dg-path":"Assert in Python.md","permalink":"/assert-in-python/","tags":[null]}
 ---
 
 
