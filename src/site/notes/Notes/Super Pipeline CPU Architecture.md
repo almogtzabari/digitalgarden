@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/super-pipeline-cpu-architecture/","tags":[null]}
+{"dg-publish":true,"dg-path":"Super Pipeline CPU Architecture.md","permalink":"/super-pipeline-cpu-architecture/","tags":[null]}
 ---
 
 
