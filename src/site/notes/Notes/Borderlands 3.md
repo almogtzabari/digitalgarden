@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/borderlands-3/"}
+{"dg-publish":true,"permalink":"/notes/borderlands-3/","contentClasses":"rtl"}
 ---
 
 
