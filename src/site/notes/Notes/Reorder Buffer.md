@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/reorder-buffer/","tags":[null]}
+{"dg-publish":true,"dg-path":"Reorder Buffer.md","permalink":"/reorder-buffer/","tags":[null]}
 ---
 
 
