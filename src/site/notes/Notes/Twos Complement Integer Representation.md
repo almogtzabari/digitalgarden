@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/twos-complement-integer-representation/","tags":[null]}
+{"dg-publish":true,"dg-path":"Twos Complement Integer Representation.md","permalink":"/twos-complement-integer-representation/","tags":[null]}
 ---
 
 
