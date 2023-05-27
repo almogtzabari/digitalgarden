@@ -20,9 +20,9 @@ Borderlands 3, הוא משחק יריות מגוף ראשון (FPS) שנוצר �
 - [Fandom](https://borderlands.fandom.com/wiki/Borderlands_Wiki)
 
 
+::: hide_from_here_to_end
 
- 
---- 
+ --- 
 
 ### פתקים קשורים
 | תאריך      | שם הפתק                                                                                                                                                                                           |
@@ -41,4 +41,3 @@ Borderlands 3, הוא משחק יריות מגוף ראשון (FPS) שנוצר �
 | 2022/01/17 | [[Notes/גיימינג\|גיימינג]]                                                                                                                                                                     |
 
 { .block-language-dataview}
-
