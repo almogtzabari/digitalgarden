@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/complex-instruction-set-computer/","tags":[null]}
+{"dg-publish":true,"dg-path":"Complex Instruction Set Computer.md","permalink":"/complex-instruction-set-computer/","tags":[null]}
 ---
 
 
