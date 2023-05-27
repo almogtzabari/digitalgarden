@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/integer-multiplication/","tags":[null]}
+{"dg-publish":true,"dg-path":"Integer Multiplication.md","permalink":"/integer-multiplication/","tags":[null]}
 ---
 
 
