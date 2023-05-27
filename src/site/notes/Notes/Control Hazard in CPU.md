@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/control-hazard-in-cpu/","tags":[null]}
+{"dg-publish":true,"dg-path":"Control Hazard in CPU.md","permalink":"/control-hazard-in-cpu/","tags":[null]}
 ---
 
 
