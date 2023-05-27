@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gearbox Software.md","permalink":"/gearbox-software/","contentClasses":"rtl"}
+{"dg-publish":true,"dg-path":"Gearbox Software.md","permalink":"/gearbox-software/","contentClasses":"rtl","noteIcon":""}
 ---
 
 
