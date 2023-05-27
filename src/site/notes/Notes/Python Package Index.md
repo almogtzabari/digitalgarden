@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/python-package-index/"}
+{"dg-publish":true,"dg-path":"Python Package Index.md","permalink":"/python-package-index/"}
 ---
 
 
