@@ -19,29 +19,10 @@ Borderlands 3, הוא משחק יריות מגוף ראשון (FPS) שנוצר �
 - [Metal Mars](https://mentalmars.com/borderlands-3/)
 - [Fandom](https://borderlands.fandom.com/wiki/Borderlands_Wiki)
 
-
-
---- 
-
-### פתקים קשורים
-| תאריך      | שם הפתק                                                                                                                                                                                           |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022/10/16 | [[Readwise/Articles/Borderlands 3 Elemental Damage Guide\|Borderlands 3 Elemental Damage Guide]]                                                                                               |
-| 2022/10/16 | [[Readwise/Articles/Borderlands 3 Leveling Guide – Get XP Fast in These Locations\|Borderlands 3 Leveling Guide – Get XP Fast in These Locations]]                                             |
-| 2022/10/16 | [[Readwise/Articles/Borderlands 3 Farmable Bosses and Their Legendary Drop Guide\|Borderlands 3 Farmable Bosses and Their Legendary Drop Guide]]                                               |
-| 2022/10/16 | [[Readwise/Articles/Every Borderlands 3 Shift Code You Need to Unlock the Golden Chest on Sanctuary 3-2\|Every Borderlands 3 Shift Code You Need to Unlock the Golden Chest on Sanctuary 3-2]] |
-| 2022/10/16 | [[Readwise/Articles/Every Borderlands 3 Shift Code to Unlock the Sanctuary 3 Golden Chest  GamesRadar+\|Every Borderlands 3 Shift Code to Unlock the Sanctuary 3 Golden Chest  GamesRadar+]]   |
-| 2022/10/16 | [[Readwise/Articles/Maurice's Black Market Location Guide - Borderlands 3\|Maurice's Black Market Location Guide - Borderlands 3]]                                                             |
-| 2022/10/16 | [[Readwise/Articles/Every Borderlands 3 Shift Code You Need to Unlock the Golden Chest on Sanctuary 3\|Every Borderlands 3 Shift Code You Need to Unlock the Golden Chest on Sanctuary 3]]     |
-| 2022/10/13 | [[Readwise/Articles/Borderlands 3  What Is the Max Level Cap and Max Guardian Rank\|Borderlands 3  What Is the Max Level Cap and Max Guardian Rank]]                                           |
-| 2022/10/09 | [[Notes/Borderlands 3 Amara (Siren) Skill Tree EXP Farm\|Borderlands 3 Amara (Siren) Skill Tree EXP Farm]]                                                                                     |
-| 2022/09/10 | [[Notes/Gearbox Software\|Gearbox Software]]                                                                                                                                                   |
-| 2022/08/24 | [[Notes/Borderlands Series\|Borderlands Series]]                                                                                                                                               |
-| 2022/01/17 | [[Notes/Gaming\|Gaming]]                                                                                                                                                                       |
-
-{ .block-language-dataview}
+ 
 
 | תאריך | שם הפתק |
 | ----- | ------- |
 
 { .block-language-dataview}
+
