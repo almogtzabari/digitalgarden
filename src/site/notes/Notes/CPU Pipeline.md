@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/cpu-pipeline/","tags":[null]}
+{"dg-publish":true,"dg-path":"CPU Pipeline.md","permalink":"/cpu-pipeline/","tags":[null]}
 ---
 
 
