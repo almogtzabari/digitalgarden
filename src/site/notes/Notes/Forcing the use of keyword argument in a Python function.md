@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/forcing-the-use-of-keyword-argument-in-a-python-function/","tags":[null]}
+{"dg-publish":true,"dg-path":"Forcing the use of keyword argument in a Python function.md","permalink":"/forcing-the-use-of-keyword-argument-in-a-python-function/","tags":[null]}
 ---
 
 
