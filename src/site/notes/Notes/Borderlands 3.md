@@ -20,4 +20,4 @@ Borderlands 3, הוא משחק יריות מגוף ראשון (FPS) שנוצר �
 - [Fandom](https://borderlands.fandom.com/wiki/Borderlands_Wiki)
 
 
-הוחלף בהצלחה!
+ 
