@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/branch-resolution/","tags":[null]}
+{"dg-publish":true,"dg-path":"Branch Resolution.md","permalink":"/branch-resolution/","tags":[null]}
 ---
 
 
