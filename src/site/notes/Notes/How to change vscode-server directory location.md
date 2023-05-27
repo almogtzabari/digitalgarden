@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/how-to-change-vscode-server-directory-location/","tags":[null]}
+{"dg-publish":true,"dg-path":"How to change vscode-server directory location.md","permalink":"/how-to-change-vscode-server-directory-location/","tags":[null]}
 ---
 
 
