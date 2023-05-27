@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/ripple-carry-adder/","tags":[null]}
+{"dg-publish":true,"dg-path":"Ripple Carry Adder.md","permalink":"/ripple-carry-adder/","tags":[null]}
 ---
 
 
