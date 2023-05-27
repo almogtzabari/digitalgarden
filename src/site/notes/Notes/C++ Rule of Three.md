@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/c-rule-of-three/","tags":[null]}
+{"dg-publish":true,"dg-path":"C++ Rule of Three.md","permalink":"/c-rule-of-three/","tags":[null]}
 ---
 
 
