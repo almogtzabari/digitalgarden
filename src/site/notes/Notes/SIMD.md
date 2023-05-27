@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/simd/","tags":[null]}
+{"dg-publish":true,"dg-path":"SIMD.md","permalink":"/simd/","tags":[null]}
 ---
 
 
