@@ -10,15 +10,4 @@
 בנוסף ל[[Notes/סדרת משחקי Borderlands\|סדרת בורדרלנדס]], [[Notes/Gearbox Software\|Gearbox Software]] פיתחה משחקים נוספים כמו "Brothers in Arms" ו-"Battleborn", וביצעה גם עבודת הפיכה (porting) למשחקים כמו "Half-Life" ו-"Halo: Combat Evolved".
 
 
-
---- 
-
-### פתקים קשורים
-
-| תאריך      | שם הפתק                                   |
-| ---------- | ----------------------------------------- |
-| 2022/08/03 | [[Notes/Borderlands 3\|Borderlands 3]] |
-
-{ .block-language-dataview}
-
  
