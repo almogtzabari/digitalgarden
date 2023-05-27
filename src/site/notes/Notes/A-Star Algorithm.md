@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/a-star-algorithm/","tags":[null]}
+{"dg-publish":true,"dg-path":"A-Star Algorithm.md","permalink":"/a-star-algorithm/","tags":[null]}
 ---
 
 
