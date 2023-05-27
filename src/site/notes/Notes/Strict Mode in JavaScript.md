@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/strict-mode-in-java-script/"}
+{"dg-publish":true,"dg-path":"Strict Mode in JavaScript.md","permalink":"/strict-mode-in-java-script/"}
 ---
 
 
