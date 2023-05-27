@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/how-to-install-oh-my-zsh/"}
+{"dg-publish":true,"dg-path":"How to install Oh My Zsh.md","permalink":"/how-to-install-oh-my-zsh/"}
 ---
 
 
