@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/c-compilation-process/","tags":[null]}
+{"dg-publish":true,"dg-path":"C++ Compilation Process.md","permalink":"/c-compilation-process/","tags":[null]}
 ---
 
 
