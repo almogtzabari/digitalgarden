@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/register-alias-table/","tags":[null]}
+{"dg-publish":true,"dg-path":"Register Alias Table.md","permalink":"/register-alias-table/","tags":[null]}
 ---
 
 
