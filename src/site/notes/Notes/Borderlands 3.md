@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Borderlands 3.md","permalink":"/borderlands-3/","contentClasses":"rtl","noteIcon":"2"}
+{"dg-publish":true,"dg-path":"Borderlands 3.md","permalink":"/borderlands-3/","contentClasses":"rtl"}
 ---
 
 
