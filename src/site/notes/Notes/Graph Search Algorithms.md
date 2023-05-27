@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/graph-search-algorithms/","tags":[null]}
+{"dg-publish":true,"dg-path":"Graph Search Algorithms.md","permalink":"/graph-search-algorithms/","tags":[null]}
 ---
 
 
