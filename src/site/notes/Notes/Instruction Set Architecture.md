@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/instruction-set-architecture/","tags":[null]}
+{"dg-publish":true,"dg-path":"Instruction Set Architecture.md","permalink":"/instruction-set-architecture/","tags":[null]}
 ---
 
 
