@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/how-to-trim-a-video-using-f-fmpeg-for-dummies/"}
+{"dg-publish":true,"dg-path":"How to trim a video using FFmpeg (for dummies).md","permalink":"/how-to-trim-a-video-using-f-fmpeg-for-dummies/"}
 ---
 
 
