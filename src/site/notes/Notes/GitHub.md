@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/git-hub/","contentClasses":"rtl"}
+{"dg-publish":true,"dg-path":"GitHub.md","permalink":"/git-hub/","contentClasses":"rtl"}
 ---
 
 
