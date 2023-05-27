@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/cycles-per-instruction/"}
+{"dg-publish":true,"dg-path":"Cycles Per Instruction.md","permalink":"/cycles-per-instruction/"}
 ---
 
 
