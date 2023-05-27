@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/vertex-buffer-object/","tags":[null]}
+{"dg-publish":true,"dg-path":"Vertex Buffer Object.md","permalink":"/vertex-buffer-object/","tags":[null]}
 ---
 
 
