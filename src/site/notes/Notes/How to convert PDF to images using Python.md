@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/how-to-convert-pdf-to-images-using-python/"}
+{"dg-publish":true,"dg-path":"How to convert PDF to images using Python.md","permalink":"/how-to-convert-pdf-to-images-using-python/"}
 ---
 
 
