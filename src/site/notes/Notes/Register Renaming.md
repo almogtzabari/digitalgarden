@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/register-renaming/","tags":[null]}
+{"dg-publish":true,"dg-path":"Register Renaming.md","permalink":"/register-renaming/","tags":[null]}
 ---
 
 
