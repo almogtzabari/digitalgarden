@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/fork-in-linux/","tags":[null]}
+{"dg-publish":true,"dg-path":"Fork in Linux.md","permalink":"/fork-in-linux/","tags":[null]}
 ---
 
 
