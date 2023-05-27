@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/rasterization/","tags":[null]}
+{"dg-publish":true,"dg-path":"Rasterization.md","permalink":"/rasterization/","tags":[null]}
 ---
 
 
