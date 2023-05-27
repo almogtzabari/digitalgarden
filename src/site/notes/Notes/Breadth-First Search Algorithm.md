@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/breadth-first-search-algorithm/","tags":[null]}
+{"dg-publish":true,"dg-path":"Breadth-First Search Algorithm.md","permalink":"/breadth-first-search-algorithm/","tags":[null]}
 ---
 
 
