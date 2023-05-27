@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/agile/","tags":[null]}
+{"dg-publish":true,"dg-path":"Agile.md","permalink":"/agile/","tags":[null]}
 ---
 
 
