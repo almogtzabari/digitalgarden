@@ -4,8 +4,9 @@
 
 
 
+![[Borderlands Game Series Banner.webp]]
 
-# סדרת משחקי המחשב Borderlands
+# סדרת [[Notes/Gaming\|משחקי המחשב]] Borderlands
 
 
  
