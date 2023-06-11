@@ -4,7 +4,7 @@
 
 
 
-![[Borderlands Game Series Banner.webp]]
+![Borderlands Game Series Banner.png](/img/user/Assets/Banners/Borderlands%20Game%20Series%20Banner.png)
 
 # סדרת [[Notes/Gaming\|משחקי המחשב]] Borderlands
 
