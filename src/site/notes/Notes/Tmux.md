@@ -7,7 +7,7 @@
 ![Tmux Banner.png](/img/user/Assets/Banners/Tmux%20Banner.png)
 
 # Tmux
-Tmux (או Terminal Multiplexer) הוא [[Notes/תכנות\|תוכנה]] המוסיפה יכולות שונות לטרמינל הפשוט. בעזרת ה- Tmux ניתן למשל להריץ כמה [[Notes/Tmux#Session\|Sessions]] של טרמינל [[Notes/Tmux#Window\|בחלון]] אחד, לפצל [[Notes/Tmux#Window\|חלון]] אופקית/אנכית לכמה [[Notes/Tmux#Pane\|Panes]], ולהגדיר [[Notes/Tmux#Window\|חלונות]] טרמינל נוספים שניתן לעבור ביניהם בקלות.
+Tmux (או Terminal Multiplexer) היא [[Notes/תכנות\|תוכנה]] המוסיפה יכולות שונות לטרמינל הפשוט. בעזרת ה- Tmux ניתן למשל להריץ כמה [[Notes/Tmux#Session\|Sessions]] של טרמינל [[Notes/Tmux#Window\|בחלון]] אחד, לפצל [[Notes/Tmux#Window\|חלון]] אופקית/אנכית לכמה [[Notes/Tmux#Pane\|Panes]], ולהגדיר [[Notes/Tmux#Window\|חלונות]] טרמינל נוספים שניתן לעבור ביניהם בקלות.
 **דבר שימושי נוסף שניתן לעשות בעזרת ה- Tmux או לאפשר למשהו לרוץ בתוך Session של Tmux גם כאשר ה- Session של הטרמינל הפשוט נסגר. בכך ניתן לחזור להמשיך מאותה נקודה שהפסקנו, גם אם בטעות סגרנו את הטרמינל.**
 
 ### אובייקטים בסיסים
