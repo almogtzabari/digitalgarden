@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Dori and Almog are getting married.md","permalink":"/dori-and-almog-are-getting-married/","contentClasses":"ltr","tags":[null]}
+{"dg-publish":true,"dg-path":"Dori and Almog are getting married.md","permalink":"/dori-and-almog-are-getting-married/","contentClasses":"ltr"}
 ---
 
 
