@@ -4,6 +4,8 @@
 
 
 
+[[Notes/Dori and Almog are getting married\|🇺🇸🇬🇧 English ]] | [[Notes/החתונה של דורי ואלמוג\|🇮🇱 עברית]]
+
 # Dori & Almog Are Getting Married
 
 We are excited to invite you to our wedding which will take place on October 30th 2023 at Kitchen & Garden in Tel Yitzhak.
